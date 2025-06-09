@@ -37,6 +37,10 @@ View all certificates and supporting documents in my Google Drive: https://bit.l
 ➡️ https://github.com/Albetro/The-data-achemist
 ---
 
+## 🔍 Practice Platforms
+
+- https://tryhackme.com/p/S.Alberto
+
 ## 🧪 Labs & Exercises
 
   Linux File Permissions Lab
@@ -55,4 +59,4 @@ link to labs: https://drive.google.com/drive/folders/1WqiV9RSHCneJWSHHnhSa4Codcy
 
 - GitHub: https://github.com/Albetro
 - LinkedIn: https://www.linkedin.com/in/albert-sang-968680232/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BJSPaqRHARIatlc2RyJsauA%3D%3D
-- Resume: [Download Resume](https://placeholde
+- Resume: https://docs.google.com/document/d/15rE6xBe6bjZ8jzY410Q68kqWlVhHpIwkZrDpGiFkaXE/edit?usp=drive_link
