@@ -58,5 +58,5 @@ link to labs: https://drive.google.com/drive/folders/1WqiV9RSHCneJWSHHnhSa4Codcy
 ## 📫 Contact Me
 
 - GitHub: https://github.com/Albetro
-- LinkedIn: https://www.linkedin.com/in/albert-sang-968680232/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BJSPaqRHARIatlc2RyJsauA%3D%3D
+- LinkedIn: https://www.linkedin.com/in/albert-sang-968680232/
 - Resume: https://docs.google.com/document/d/15rE6xBe6bjZ8jzY410Q68kqWlVhHpIwkZrDpGiFkaXE/edit?usp=drive_link
