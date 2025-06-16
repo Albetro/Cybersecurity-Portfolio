@@ -34,7 +34,7 @@ View all certificates and supporting documents in my Google Drive: https://bit.l
 - Python scraper using BeautifulSoup & Requests
 - Automates repetitive data collection for analysis
 
-➡️ https://github.com/Albetro/The-data-achemist
+➡️  https://github.com/Albetro/The-data-achemist
 ---
 
 ## 🔍 Practice Platforms
