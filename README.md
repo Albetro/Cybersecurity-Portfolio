@@ -5,7 +5,7 @@ Welcome! This repository showcases my cybersecurity knowledge and practical skil
 ## 📜 Certifications
 Here are some of the certifications I've earned:
 
-- Google Cybersecurity Certificate: https://www.coursera.org/account-profile
+- Google Cybersecurity Certificate: https://drive.google.com/drive/folders/1KboDWJRVIAoiT9SthQKkB8_FkIvT39zN?usp=drive_link
 - Certified in Cybersecurity (CC) – ISC2 https://drive.google.com/drive/folders/1KboDWJRVIAoiT9SthQKkB8_FkIvT39zN?usp=drive_link
 - Cisco Introduction to Cybersecurity: https://drive.google.com/drive/folders/1KboDWJRVIAoiT9SthQKkB8_FkIvT39zN?usp=drive_link
 - ALX Software Engineering Certificate: https://drive.google.com/drive/folders/1KboDWJRVIAoiT9SthQKkB8_FkIvT39zN?usp=drive_link
