@@ -43,10 +43,10 @@ View all certificates and supporting documents in my Google Drive: https://bit.l
 
 ## 🧪 Labs & Exercises
 
-  Linux File Permissions Lab
-  SQL Filtering Practice
-  Incident Handler's Journal
-link to labs: https://drive.google.com/drive/folders/1WqiV9RSHCneJWSHHnhSa4Codcy23ZyPS?usp=drive_link
+- Linux File Permissions Lab
+- SQL Filtering Practice
+- Incident Handler's Journal
+- link to labs: https://drive.google.com/drive/folders/1WqiV9RSHCneJWSHHnhSa4Codcy23ZyPS?usp=drive_link
 ---
 
 ## 🎯 Professional Focus
