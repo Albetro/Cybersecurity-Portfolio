@@ -11,7 +11,7 @@ Here are some of the certifications I've earned:
 - ALX Software Engineering Certificate: https://drive.google.com/drive/folders/1KboDWJRVIAoiT9SthQKkB8_FkIvT39zN?usp=drive_link
 - Microsoft Cybersecurity Analyst: https://drive.google.com/drive/folders/1KboDWJRVIAoiT9SthQKkB8_FkIvT39zN?usp=drive_link
 - Ethical Hacking course @ Cisco Networking Academy (In Progress)
-View all certificates and supporting documents in my Google Drive: https://bit.ly/43yT0RO
+- View all certificates and supporting documents in my Google Drive: https://bit.ly/43yT0RO
 
 ---
 
