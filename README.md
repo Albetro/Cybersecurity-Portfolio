@@ -61,3 +61,4 @@ Here are some of the certifications I've earned:
 - GitHub: https://github.com/Albetro
 - LinkedIn: https://www.linkedin.com/in/albert-sang-968680232/
 - Resume: https://docs.google.com/document/d/15rE6xBe6bjZ8jzY410Q68kqWlVhHpIwkZrDpGiFkaXE/edit?usp=drive_link
+- Email: iamkipkorirsang@gmail.com
