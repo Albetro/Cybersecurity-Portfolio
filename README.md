@@ -54,7 +54,7 @@ Here are some of the certifications I've earned:
 
 - SOC Analyst • DevSecOps • Penetration Testing • Cloud Security
 
----
+
 
 ## 📫 Contact Me
 
