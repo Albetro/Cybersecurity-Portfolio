@@ -52,7 +52,7 @@ Here are some of the certifications I've earned:
 
 ## 🎯 Professional Focus
 
-- SOC Analyst • DevSecOps • Penetration Testing • Cloud Security
+- SOC Analyst • DevSecOps• Penetration Testing • Cloud Security
 
 
 
