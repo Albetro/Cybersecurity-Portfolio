@@ -25,8 +25,8 @@ Here are some of the certifications I've earned:
 ➡️ https://github.com/Albetro/SecureAuth_API
 
 ### ⚙️ Automation Tool
-- Python scripts that automates repetitive tasks
-- Designed for use in tasks for Cyber security professionals
+- Python scripts that automates repetitive tasks.
+- Designed for use in tasks for Cyber security professionals.
 
 ➡️ https://github.com/Albetro/Cyber_Security
 
